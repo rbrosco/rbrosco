@@ -46,7 +46,13 @@ Sou especialista em arquitetura de automações utilizando **n8n** e **Inteligê
 
 ### 📊 Estatísticas
 
+Que bom que o Streak Stats funcionou! Ele é bem mais estável. Para colocar as duas (Estatísticas Gerais + Linguagens) no mesmo estilo e alinhadas como você queria, vamos usar uma combinação que costuma dar menos erro de carregamento.
+
+Aqui está o bloco das Estatísticas pronto para copiar:
+
+Markdown
+### 📊 Estatísticas
+
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rbrosco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrosco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rbrosco&theme=tokyonight" alt="GitHub Streak" />
 </p>
