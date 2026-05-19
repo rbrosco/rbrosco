@@ -29,10 +29,7 @@
 
 </div>
 
-<!-- ─────────────────────────────  TERMINAL CARD  ───────────────────────────── -->
 
-> **`┌──(rogger㉿roggerando)-[~/portfolio]`**  
-> **`└─$ cat about.json`**
 
 ```json
 {
