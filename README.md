@@ -1,171 +1,199 @@
-<div align="center">
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗
+     ║                  README.md  •  Rogger Brosco  •  v3.0                    ║
+     ║          "Automatize tudo que for repetitivo. Crie o que for único."     ║
+     ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/rbrosco">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Rogger%20Brosco&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automa%C3%A7%C3%B5es%20Inteligentes%20%E2%80%A2%20Dev%20FullStack%20%E2%80%A2%20IA&descAlignY=58&descSize=18" alt="Rogger Brosco" />
+  <img src="https://raw.githubusercontent.com/rbrosco/rbrosco/output/snake.svg" alt="Snake animation" width="100%" />
 </a>
 
-<a href="https://github.com/rbrosco">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Ol%C3%A1!+Eu+sou+o+Rogger+%F0%9F%91%8B;Arquiteto+de+Automa%C3%A7%C3%B5es+com+n8n+%2B+IA;Desenvolvedor+FullStack+%7C+React+%2B+Next.js;Apaixonado+por+Linux+%26+Performance" alt="Typing SVG" />
-</a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=%24+whoami;%3E+Rogger+Brosco_;%3E+Arquiteto+de+Automa%C3%A7%C3%B5es+%2B+IA;%3E+Dev+FullStack+%7C+React+%2B+Next.js;%3E+Linux+enthusiast+%F0%9F%90%A7" alt="Terminal Typing" />
+</h1>
 
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/@Roggerando">
+    <img src="https://img.shields.io/badge/-%E2%96%B6%20YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://www.instagram.com/roggerando/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/rbrosco">
+    <img src="https://img.shields.io/badge/-GitHub-22D3EE?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rbrosco&style=flat-square&color=22D3EE&label=VISITAS&labelColor=0D1117" />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/rbrosco?style=flat-square&logo=person-add&logoColor=white&color=1F6FEB&labelColor=0D1117&label=FOLLOW" />
+</p>
 
-## 🧠 Sobre Mim
+<!-- ─────────────────────────────  TERMINAL CARD  ───────────────────────────── -->
 
-```yaml
-👤 nome:        Rogger Brosco
-🎂 idade:       34 anos
-🎓 formação:    Análise e Desenvolvimento de Sistemas — UNINOVE
-💼 atuação:     Automações Inteligentes • Dev FullStack • Integrações com IA
-🐧 ambiente:    CachyOS / Arch Linux • Performance acima de tudo
-🎯 missão:      Conectar sistemas e pessoas através de fluxos autônomos
-📺 canal:       youtube.com/@Roggerando
+```bash
+┌──(rogger㉿roggerando)-[~/portfolio]
+└─$ cat about.json
 ```
 
-> 💡 **O que eu faço?** Crio arquiteturas de automação com **n8n** integradas a **Inteligência Artificial**, conectando APIs, bancos de dados e aplicações modernas em **React/Next.js** — transformando processos manuais em fluxos autônomos e escaláveis.
+```json
+{
+  "👤  nome":       "Rogger Brosco",
+  "🎂  idade":      34,
+  "🎓  formação":   "Análise e Desenvolvimento de Sistemas — UNINOVE",
+  "💼  atuação":    ["n8n", "IA / LLMs", "React", "Next.js", "Node", "Python"],
+  "🐧  ambiente":   "CachyOS • Arch Linux • Zsh + Neovim",
+  "🎯  missão":     "Transformar processos manuais em fluxos autônomos",
+  "📺  canal":      "youtube.com/@Roggerando",
+  "🌎  fuso":       "America/Sao_Paulo  (UTC-3)",
+  "⚡  status":     "Aberto para projetos & colaborações"
+}
+```
 
-<div align="center">
-
-<a href="https://www.youtube.com/@Roggerando">
-    <img alt="YouTube" title="Inscreva-se no Roggerando" src="https://img.shields.io/badge/YouTube-Roggerando-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/roggerando/">
-    <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-roggerando-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://github.com/rbrosco?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rbrosco?color=F1E05A&labelColor=0D1117&style=for-the-badge&logo=star&logoColor=F1E05A&label=Estrelas" />
-</a>
-<a href="https://github.com/rbrosco?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/rbrosco?color=1F6FEB&labelColor=0D1117&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-</a>
-<a href="https://github.com/rbrosco">
-    <img alt="Visitas" src="https://komarev.com/ghpvc/?username=rbrosco&style=for-the-badge&color=22D3EE&label=VISITAS" />
-</a>
-
-</div>
-
----
-
-### 🛠️ Stack & Tecnologias
+<!-- ─────────────────────────────  PROPOSTA DE VALOR  ───────────────────────── -->
 
 <table align="center">
   <tr>
-    <td align="center" width="180">
-      <b>🤖 Automação & IA</b><br /><br />
-      <img src="https://cdn.simpleicons.org/n8n/FF6D5A" width="38" title="n8n" />&nbsp;
-      <img src="https://cdn.simpleicons.org/openai/10A37F" width="38" title="OpenAI" />&nbsp;
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="38" title="LangChain" />
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/n8n/22D3EE" width="48" /><br/><br/>
+      <b>⚙️ Automatizo</b><br/>
+      <sub>Workflows com n8n que eliminam tarefas repetitivas e economizam horas por semana.</sub>
     </td>
-    <td align="center" width="180">
-      <b>💻 Frontend</b><br /><br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="38" title="Next.js" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" title="React" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" title="TypeScript" />
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/openai/22D3EE" width="48" /><br/><br/>
+      <b>🧠 Integro IA</b><br/>
+      <sub>Agentes, assistentes e pipelines com LLMs aplicados a casos reais de negócio.</sub>
     </td>
-    <td align="center" width="180">
-      <b>⚙️ Backend</b><br /><br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="38" title="Node.js" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="38" title="Bun" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" title="Python" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="38" title="PHP" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="38" title="Laravel" />
+    <td align="center" width="33%">
+      <img src="https://cdn.simpleicons.org/nextdotjs/22D3EE" width="48" /><br/><br/>
+      <b>🚀 Construo</b><br/>
+      <sub>Aplicações fullstack em Next.js + TypeScript com foco em performance e UX.</sub>
     </td>
-    <td align="center" width="180">
-      <b>🗄️ Dados & Infra</b><br /><br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" title="PostgreSQL" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" title="Docker" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="38" title="Linux" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" title="Git" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Fluxos autônomos<br/>e integrações com IA</sub></td>
-    <td align="center"><sub>Interfaces modernas<br/>e performáticas</sub></td>
-    <td align="center"><sub>APIs robustas<br/>e escaláveis</sub></td>
-    <td align="center"><sub>Containers, Linux<br/>e versionamento</sub></td>
   </tr>
 </table>
+
+<!-- ─────────────────────────────  STACK  ───────────────────────────────────── -->
+
+<h2 align="center">⚡ Stack & Arsenal</h2>
+
+<div align="center">
+
+| 🤖 **Automação & IA** | 💻 **Frontend** | ⚙️ **Backend** | 🗄️ **Infra & Dados** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/n8n/FF6D5A" width="32" title="n8n"/> <img src="https://cdn.simpleicons.org/openai/10A37F" width="32" title="OpenAI"/> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="32" title="LangChain"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" title="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="32" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" title="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" title="Tailwind"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="32" title="Bun"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32" title="Laravel"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="32" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" title="Git"/> |
+| `n8n` · `OpenAI` · `LangChain` | `Next.js` · `React` · `TS` · `Tailwind` | `Node` · `Bun` · `Python` · `PHP/Laravel` | `Postgres` · `Docker` · `Linux` · `Git` |
+
+</div>
 
 <details>
-<summary><b>🎨 Estilização & Ferramentas Extras</b></summary>
-
-<br />
-
+<summary align="center"><b>🎨 Ver ferramentas extras (clique para expandir)</b></summary>
+<br/>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38" title="Tailwind" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="38" title="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="38" title="SASS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="38" title="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="32" title="Bootstrap"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="32" title="SASS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="32" title="jQuery"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32" title="PHP"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/neovim/57A143" width="32" title="Neovim"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="32" title="Arch Linux"/>
 </p>
-
 </details>
 
----
+<!-- ─────────────────────────────  STATS  ───────────────────────────────────── -->
 
-### 🚀 O que você encontra por aqui
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🤖 Automações com n8n</h4>
-      <p>Workflows inteligentes que conectam APIs, bancos e IA para resolver problemas reais — do lead à entrega.</p>
-    </td>
-    <td width="50%">
-      <h4>🧩 Integrações com IA</h4>
-      <p>Agentes, assistentes e pipelines com LLMs aplicados a casos de negócio.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>⚡ Projetos FullStack</h4>
-      <p>Aplicações modernas em <b>Next.js</b>, <b>React</b> e <b>TypeScript</b>, com foco em performance e UX.</p>
-    </td>
-    <td width="50%">
-      <h4>🐧 Conteúdo Linux & Dev</h4>
-      <p>Dicas, setups e tutoriais no canal <a href="https://www.youtube.com/@Roggerando"><b>Roggerando</b></a>.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estatísticas do GitHub
+<h2 align="center">📈 Métricas do Dev</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rbrosco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rbrosco&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
-
-<br />
-
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrosco&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rbrosco&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
-</div>
-
----
-
-### 💬 Vamos conversar?
-
-<div align="center">
-
-<a href="https://www.youtube.com/@Roggerando">
-  <img src="https://img.shields.io/badge/▶%20Inscreva--se%20no%20Roggerando-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/roggerando/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="https://github.com/rbrosco">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rbrosco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180" src="https://streak-stats.demolab.com?user=rbrosco&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
 </a>
 
-<br /><br />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
+<a href="https://github.com/rbrosco">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrosco&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbrosco&theme=tokyonight" />
+</a>
 
-<sub>⭐ Se curtir algum projeto, deixe uma estrela — isso me ajuda demais!</sub>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbrosco&bg_color=0D1117&color=22D3EE&line=22D3EE&point=ffffff&area=true&hide_border=true&theme=react-dark" width="98%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rbrosco&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=8&margin-h=8" />
 
 </div>
+
+<!-- ─────────────────────────────  TIMELINE  ────────────────────────────────── -->
+
+<h2 align="center">🗺️ Linha do Tempo</h2>
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#22D3EE','primaryTextColor':'#fff','lineColor':'#22D3EE'}}}%%
+timeline
+    title  Jornada do Rogger
+    Ontem      : Web Developer    : PHP · Laravel · jQuery
+    Hoje       : FullStack + Auto : Next.js · n8n · IA · Linux
+    Amanhã     : Agentes de IA    : LLMs autônomos · MCP · Edge
+```
+
+<!-- ─────────────────────────────  PROJETOS  ────────────────────────────────── -->
+
+<h2 align="center">🛸 Em destaque</h2>
+
+<div align="center">
+
+<a href="https://github.com/rbrosco?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbrosco&repo=rbrosco&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/rbrosco?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/badge/-Ver%20todos%20os%20reposit%C3%B3rios-22D3EE?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" />
+</a>
+
+</div>
+
+<!-- ─────────────────────────────  FRASE  ───────────────────────────────────── -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+<!-- ─────────────────────────────  CONTATO  ─────────────────────────────────── -->
+
+<h2 align="center">📡 Vamos conectar?</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/@Roggerando">
+    <img src="https://img.shields.io/badge/▶%20Inscreva--se%20no%20Roggerando-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://www.instagram.com/roggerando/">
+    <img src="https://img.shields.io/badge/@roggerando-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/rbrosco">
+    <img src="https://img.shields.io/badge/rbrosco-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    💡 <b>Tem um processo manual te consumindo tempo?</b><br/>
+    Me chama — provavelmente dá pra automatizar.
+  </sub>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=%E2%AD%90%20Deixe%20uma%20estrela%20se%20curtir!&fontSize=16&fontColor=ffffff&fontAlignY=75" width="100%" />
+</div>
+
+<!--
+  ╭──────────────────────────────────────────────────────────────╮
+  │  Feito com ☕, 🐧 Linux e fluxos no n8n por @rbrosco          │
+  ╰──────────────────────────────────────────────────────────────╯
+-->
