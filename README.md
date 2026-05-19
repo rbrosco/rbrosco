@@ -73,44 +73,57 @@
 
 <div align="center">
 
-**🤖 Automação & IA**
-
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**💻 Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**⚙️ Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**🗄️ Infra & Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="210">
+      <b>🤖 Automação & IA</b><br /><br />
+      <img src="https://cdn.simpleicons.org/n8n/FF6D5A" width="48" title="n8n" />&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" title="OpenAI" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" title="Python" />
+      <br /><br />
+      <sub>n8n &nbsp;·&nbsp; OpenAI &nbsp;·&nbsp; LangChain</sub>
+    </td>
+    <td align="center" width="210">
+      <b>💻 Frontend</b><br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" title="Next.js" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" title="React" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" title="TypeScript" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" title="Tailwind" />
+      <br /><br />
+      <sub>Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Tailwind</sub>
+    </td>
+    <td align="center" width="210">
+      <b>⚙️ Backend</b><br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" title="Node.js" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="48" title="Bun" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" title="Python" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="48" title="Laravel" />
+      <br /><br />
+      <sub>Node.js &nbsp;·&nbsp; Bun &nbsp;·&nbsp; Python &nbsp;·&nbsp; Laravel</sub>
+    </td>
+    <td align="center" width="210">
+      <b>🗄️ Infra & Dados</b><br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" title="Docker" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" title="Linux" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" title="Git" />
+      <br /><br />
+      <sub>PostgreSQL &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Git</sub>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>🎨 Estilização & Ferramentas Extras</b></summary>
 <br/>
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="SASS" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" title="jQuery" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/neovim/57A143" width="40" title="Neovim" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" width="40" title="Arch Linux" />
+<br/><br/>
 </details>
 
 </div>
