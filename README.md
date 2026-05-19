@@ -50,17 +50,17 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/n8n/22D3EE" width="48" /><br/><br/>
+      <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="48" style="border-radius:8px" /><br/><br/>
       <b>⚙️ Automatizo</b><br/>
       <sub>Workflows com n8n que eliminam tarefas repetitivas e economizam horas por semana.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/openai/22D3EE" width="48" /><br/><br/>
+      <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="48" style="border-radius:8px" /><br/><br/>
       <b>🧠 Integro IA</b><br/>
       <sub>Agentes, assistentes e pipelines com LLMs aplicados a casos reais de negócio.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.simpleicons.org/nextdotjs/22D3EE" width="48" /><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" /><br/><br/>
       <b>🚀 Construo</b><br/>
       <sub>Aplicações fullstack em Next.js + TypeScript com foco em performance e UX.</sub>
     </td>
@@ -77,8 +77,8 @@
   <tr>
     <td align="center" width="210">
       <b>🤖 Automação & IA</b><br /><br />
-      <img src="https://cdn.simpleicons.org/n8n/FF6D5A" width="48" title="n8n" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" title="OpenAI" />&nbsp;&nbsp;
+      <img src="https://avatars.githubusercontent.com/u/45487711?v=4" width="48" title="n8n" />&nbsp;&nbsp;
+      <img src="https://avatars.githubusercontent.com/u/14957082?v=4" width="48" title="OpenAI" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" title="Python" />
       <br /><br />
       <sub>n8n &nbsp;·&nbsp; OpenAI &nbsp;·&nbsp; LangChain</sub>
@@ -121,8 +121,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" title="SASS" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" title="jQuery" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/neovim/57A143" width="40" title="Neovim" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/archlinux/1793D1" width="40" title="Arch Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" title="Neovim" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" title="Arch Linux" />
 <br/><br/>
 </details>
 
