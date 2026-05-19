@@ -3,34 +3,36 @@
      ║          "Automatize tudo que for repetitivo. Crie o que for único."     ║
      ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
+<div align="center">
+
 <a href="https://github.com/rbrosco">
-  <img src="https://raw.githubusercontent.com/rbrosco/rbrosco/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D5C,100:22D3EE&height=220&section=header&text=Rogger%20Brosco&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%24%20Arquiteto%20de%20Automa%C3%A7%C3%B5es%20%7C%20Dev%20FullStack%20%7C%20IA&descAlignY=60&descSize=17&descColor=22D3EE" width="100%" alt="Header" />
 </a>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=%24+whoami;%3E+Rogger+Brosco_;%3E+Arquiteto+de+Automa%C3%A7%C3%B5es+%2B+IA;%3E+Dev+FullStack+%7C+React+%2B+Next.js;%3E+Linux+enthusiast+%F0%9F%90%A7" alt="Terminal Typing" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=n8n+%2B+IA+%3D+Workflows+Aut%C3%B4nomos+%E2%9A%A1;Next.js+%7C+React+%7C+TypeScript+%7C+Python;CachyOS+%2F+Arch+Linux+%F0%9F%90%A7+Power+User;Automatize+o+repetitivo.+Crie+o+%C3%BAnico." alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.youtube.com/@Roggerando">
-    <img src="https://img.shields.io/badge/-%E2%96%B6%20YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://www.instagram.com/roggerando/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/rbrosco">
-    <img src="https://img.shields.io/badge/-GitHub-22D3EE?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rbrosco&style=flat-square&color=22D3EE&label=VISITAS&labelColor=0D1117" />
-  <img src="https://custom-icon-badges.demolab.com/github/followers/rbrosco?style=flat-square&logo=person-add&logoColor=white&color=1F6FEB&labelColor=0D1117&label=FOLLOW" />
-</p>
+<br/><br/>
+
+<a href="https://www.youtube.com/@Roggerando">
+  <img src="https://img.shields.io/badge/▶_Roggerando-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/roggerando/">
+  <img src="https://img.shields.io/badge/@roggerando-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://github.com/rbrosco?tab=followers">
+  <img src="https://custom-icon-badges.demolab.com/github/followers/rbrosco?style=for-the-badge&logo=person-add&logoColor=white&color=1F6FEB&labelColor=0D1117&label=Seguidores" />
+</a>
+<a href="https://github.com/rbrosco?tab=repositories&sort=stargazers">
+  <img src="https://custom-icon-badges.demolab.com/github/stars/rbrosco?style=for-the-badge&logo=star&logoColor=F1E05A&color=F1E05A&labelColor=0D1117&label=Estrelas" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=rbrosco&style=for-the-badge&color=22D3EE&label=Visitas&labelColor=0D1117" />
+
+</div>
 
 <!-- ─────────────────────────────  TERMINAL CARD  ───────────────────────────── -->
 
-```bash
-┌──(rogger㉿roggerando)-[~/portfolio]
-└─$ cat about.json
-```
+> **`┌──(rogger㉿roggerando)-[~/portfolio]`**  
+> **`└─$ cat about.json`**
 
 ```json
 {
